@@ -5,7 +5,3 @@ Testing some more
 Testing one last time
 
 Still testing
-
-Testing with npm route
-
-Testing something
